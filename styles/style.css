@@ -773,6 +773,7 @@ footer {
 
 /* Hamburger icon */
 .hamburger {
+  position: relative;
   width: 30px;
   height: 22px;
   display: flex;
