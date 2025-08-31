@@ -781,7 +781,7 @@ footer {
   background: none;
   border: none;
   cursor: pointer;
-  z-index: 1001;
+  z-index: 5000;
 }
 
 .hamburger span {
